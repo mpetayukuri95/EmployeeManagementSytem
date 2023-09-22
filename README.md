@@ -2,11 +2,11 @@
 
 Employee management system is a Restful API(ASP.NET) that allows the following operation through http request and responses:
 
-CREATE
-UPDATE
-READ
-DELETE
-SEARCH
+CREATE -
+UPDATE -
+READ -
+DELETE -
+SEARCH -
 AUTHENTICATION
 
 These operations are handled in the controllers folders of the project.
