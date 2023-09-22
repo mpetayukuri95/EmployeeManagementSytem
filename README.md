@@ -1,6 +1,7 @@
 # EmployeeManagementSytem
 
-Employee management system is a Restful API(ASP.NET) that allows the following operation through http request and responses on a database hosted on the cloud:
+Employee management system is a Restful API(ASP.NET) that allows 
+the following operation through http request and responses on a database hosted on the cloud:
 
 CREATE -
 UPDATE -
