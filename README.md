@@ -21,7 +21,7 @@ These operations are handled in the controllers folders of the project.
 - clone repository on github link (https://github.com/mpetayukuri95/EmployeeManagementSytem).
 - open with microsoft visual studio 2022.
 - build API in microsoft visual studio 2022.
-- deploy API on your azure account.
+- deploy API on your azure account using visual studio 2022.
 
 
   
